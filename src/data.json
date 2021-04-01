@@ -1,0 +1,44 @@
+{
+    "products":[
+        {
+           "_id":"dress1",  
+           "image":"/images/dress1.jpg",
+           "title":"midi sundress with shirring front",
+           "description":"this is all for the latest trend, no matter", 
+           "price":19, 
+           "availablesizes":["X","L","XL","XXL"]
+        },
+        {
+            "_id":"dress1", 
+            "image":"/images/dress1.jpg",
+            "title":"midi sundress with ruched front", 
+            "description":"this is all for the latest trend, no matter", 
+            "price":18.5, 
+            "availablesizes":["X","M","L"]
+         },
+         {
+            "_id":"dress1", 
+            "image":"/images/dress1.jpg",
+            "title":"midi sundress with shirring front", 
+            "description":"this is all for the latest trend, no matter", 
+            "price":17, 
+            "availablesizes":["XL","XXL"]
+         },
+         {
+            "_id":"dress1", 
+            "image":"/images/dress1.jpg",
+            "title":"midi sundress with shirring front", 
+            "description":"this is all for the latest trend, no matter", 
+            "price":19.5, 
+            "availablesizes":["XL","XXL"]
+         },
+         {
+            "_id":"dress1",
+            "image":"/images/dress1.jpg", 
+            "title":"midi sundress with shirring front", 
+            "description":"this is all for the latest trend, no matter", 
+            "price":20.5, 
+            "availablesizes":["XL","XXL"]
+         }                                   
+    ]
+}
